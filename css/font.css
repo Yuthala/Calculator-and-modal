@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('../fonts/SourceCodePro-Black.woff2') format('woff2'),
+        url('../fonts/SourceCodePro-Black.ttf') format('ttf');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('../fonts/SourceCodePro-Light.woff2') format('woff2'),
+        url('../fonts/SourceCodePro-Light.ttf') format('ttf');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('../fonts/SourceCodePro-Bold.woff2') format('woff2'),
+        url('../fonts/SourceCodePro-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('S../fonts/ourceCodePro-Regular.woff2') format('woff2'),
+        url('../fonts/SourceCodePro-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
